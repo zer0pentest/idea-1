@@ -1,4 +1,6 @@
-# some ideas of mine that i'll add to this repository
+# just deauther code for esp8266 based boards.
 custom deauther code
 <br />
-i cant think of anything else as of 3/3/24.
+flashable with arduino ide
+<br />
+pretty simple
